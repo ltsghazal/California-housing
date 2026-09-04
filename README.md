@@ -25,12 +25,14 @@ What I Learned
 * Creating data visualizations with Matplotlib
 * Working with Scikit-learn datasets
 
-Project Structure
+## Project Structure
 
-California-housing/
+california-housing/
 │
 ├── California.py
-└── README.md
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 Goal
 
