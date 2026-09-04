@@ -27,6 +27,7 @@ What I Learned
 
 ## Project Structure
 
+```text
 california-housing/
 │
 ├── California.py
